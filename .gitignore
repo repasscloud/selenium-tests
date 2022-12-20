@@ -3,10 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+*.local.*
+
 app
 chrome_driver
 selenium
-tumblr-repost.ps1
 setup.ps1
 
 # User-specific files
