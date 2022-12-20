@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri $public_uri
+Invoke-WebRequest -Uri $env:google
