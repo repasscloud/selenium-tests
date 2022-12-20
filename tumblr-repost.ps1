@@ -2,7 +2,7 @@ $selenium_webdriver_download = 'https://www.selenium.dev/downloads/'
 
 if ($IsLinux)
 {
-
+    which 7za
 }
 if ($IsWindows)
 {
