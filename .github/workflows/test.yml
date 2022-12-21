@@ -36,6 +36,6 @@ jobs:
         run: ./test-env.ps1
         shell: pwsh
 
-      - name: script with public uri
+      - name: tumblr script
         run: ./tumblr-repost.ps1
         shell: pwsh
